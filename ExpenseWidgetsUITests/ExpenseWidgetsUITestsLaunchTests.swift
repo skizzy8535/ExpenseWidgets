@@ -2,7 +2,7 @@
 //  ExpenseWidgetsUITestsLaunchTests.swift
 //  ExpenseWidgetsUITests
 //
-//  Created by NeferUser on 2024/5/3.
+//  Created by YuChen Lin on 2024/5/3.
 //
 
 import XCTest
